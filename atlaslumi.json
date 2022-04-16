@@ -79,6 +79,32 @@
 				"issues": "",
 				"notes": ""
 			}
+		},
+		{
+			"name": "TLD-Cigarettes", 
+			"aliases": [], 
+			"author": "", 
+			"authorURL": "", 
+			"version": "1.0", 
+			"updated": "2022-04-17", 
+			"description": "Adds usable Cigarettes",
+			"thumb": "", 
+			"modURL": "https://github.com/Atlas-Lumi/TLD-Cigarettes", 
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Cigarettes/releases/download/v1.0/Cigarettes.modcomponent", 
+			"testedon": {
+				"tldversion": "2.0",
+				"mlversion": "0.5.4"
+			},
+			"dependencies": [ "ModComponent" ], 
+			"updater": {
+				"enable": true, 
+				"downloads": []
+			},
+			"status": {
+				"working": true,
+				"issues": "",
+				"notes": ""
+			}
 		}
 	]
 }
