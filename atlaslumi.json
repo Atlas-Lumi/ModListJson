@@ -7,12 +7,12 @@
 			"aliases": [],
 			"author": "", 
 			"authorURL": "",
-			"version": "1.0", 
-			"updated": "2022-04-11", 
+			"version": "1.1", 
+			"updated": "2022-04-18", 
 			"description": "Makes the player anxious at night.", 
 			"thumb": "",
 			"modURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark/releases/download/v1.0/AfraidOfTheDark.dll", 
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark/releases/download/v1.1/AnxietyAtNight.dll", 
 			"testedon": {
 				"tldversion": "2.0",
 				"mlversion": "0.5.4"
