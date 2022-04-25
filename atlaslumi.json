@@ -7,12 +7,12 @@
 			"aliases": [],
 			"author": "", 
 			"authorURL": "",
-			"version": "1.2", 
-			"updated": "2022-04-22", 
+			"version": "1.3", 
+			"updated": "2022-04-25", 
 			"description": "Makes the player anxious at night.", 
 			"thumb": "",
 			"modURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark/releases/download/v1.2/AnxietyAtNight.dll", 
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark/releases/download/v1.3/AnxietyAtNight.dll", 
 			"testedon": {
 				"tldversion": "2.0",
 				"mlversion": "0.5.4"
@@ -24,7 +24,7 @@
 			},
 			"status": {
 				"working": true,
-				"issues": "Sometimes entering an interior space with a loading screen will not remove anxiety. Fix may be released soon.",
+				"issues": "",
 				"notes": ""
 			}
 		},
