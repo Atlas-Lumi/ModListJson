@@ -12,7 +12,7 @@
 			"description": "Makes the player anxious at night.", 
 			"thumb": "",
 			"modURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark/releases/download/v1.3/AnxietyAtNight.dll", 
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Afraid-of-the-Dark/releases/download/latest/AnxietyAtNight.dll", 
 			"testedon": {
 				"tldversion": "2.0",
 				"mlversion": "0.5.4"
