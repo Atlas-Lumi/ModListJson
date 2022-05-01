@@ -116,7 +116,7 @@
 			"description": "Adds a new craftable scarf made of wolf fur.",
 			"thumb": "", 
 			"modURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf", 
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf/releases/download/v1.0/WolfskinScarf.modcomponent", 
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf/releases/download/v1.1/WolfskinScarf.modcomponent", 
 			"testedon": {
 				"tldversion": "2.0",
 				"mlversion": "0.5.4"
