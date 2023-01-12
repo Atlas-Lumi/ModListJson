@@ -23,7 +23,9 @@
 			"gameversion": [
 				"tftft"
 			],
-			"images": [],
+			"images": [
+				"https://user-images.githubusercontent.com/102776369/162824531-ae345853-7c63-4d49-b90b-24d9f60b4d22.png"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
