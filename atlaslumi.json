@@ -63,7 +63,9 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+				"https://user-images.githubusercontent.com/102776369/162088567-3a22ec1d-741d-450a-af83-cb9377bd7980.png"
+			],
 			"dependencies": [
 				"ModComponent"
 			],
@@ -103,7 +105,9 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+				"https://user-images.githubusercontent.com/102776369/161359073-25bd7862-7567-4229-848c-7004e55fbeb4.jpg"
+			],
 			"dependencies": [
 				"ModComponent"
 			],
@@ -141,7 +145,9 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+				"https://user-images.githubusercontent.com/102776369/163693492-e0c76482-5351-4bf7-99ea-a4da1e512963.png"
+			],
 			"dependencies": [
 				"ModComponent"
 			],
@@ -181,7 +187,9 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": [
+				"https://user-images.githubusercontent.com/102776369/166163181-619890d1-6eaf-43b2-8930-8fec482f3a35.png"
+			],
 			"dependencies": [
 				"ModComponent"
 			],
