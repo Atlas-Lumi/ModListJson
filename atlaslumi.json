@@ -46,14 +46,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0",
+			"version": "2.0",
 			"name": "Story Mode Collectibles",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
 			"updated": "2022-04-07",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD_StoryModeCollectibles/releases/download/v1.0/StorymodeCollectibles.modcomponent",
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD_StoryModeCollectibles/releases/download/v2.0/StorymodeCollectibles.modcomponent",
 			"modURL": "https://github.com/Atlas-Lumi/TLD_StoryModeCollectibles",
 			"description": "Adds collectible items from Wintermute into survival mode.",
 			"tags": "",
@@ -70,15 +70,15 @@
 				"ModComponent"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.0",
-				"mlversion": "0.5.4"
+				"tldversion": "2.10",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
@@ -170,14 +170,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1",
+			"version": "2.0",
 			"name": "TLD-WolfskinScarf",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
 			"updated": "2022-05-01",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf/releases/download/v1.1/WolfskinScarf.modcomponent",
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf/releases/download/2.0/WolfskinScarf.modcomponent",
 			"modURL": "https://github.com/Atlas-Lumi/TLD-WolfskinScarf",
 			"description": "Adds a new craftable scarf made of wolf fur.",
 			"tags": "",
@@ -194,15 +194,15 @@
 				"ModComponent"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.0",
-				"mlversion": "0.5.4"
+				"tldversion": "2.10",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
