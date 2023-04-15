@@ -47,6 +47,47 @@
 		{
 			"type": "mod",
 			"version": "2.0",
+			"name": "Limitless Container Space",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "ds5678",
+			"released": "",
+			"updated": "2023-04-15",
+			"downloadURL": "https://github.com/Atlas-Lumi/LimitlessContainerSpace/releases/download/v2.0/LimitlessContainerSpace.dll",
+			"modURL": "https://github.com/Atlas-Lumi/LimitlessContainerSpace",
+			"description": "Increases the capacity of all containers to 10000KG",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				""
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.10",
+				"mlversion": "0.6.0.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+
+		{
+			"type": "mod",
+			"version": "2.0",
 			"name": "Story Mode Collectibles",
 			"displayName": "",
 			"author": "",
