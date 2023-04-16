@@ -84,6 +84,46 @@
 			},
 			"aliases": []
 		},
+		{
+			"type": "mod",
+			"version": "2.1",
+			"name": "DIY by Santana",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "stmSantana",
+			"released": "",
+			"updated": "2023-04-16",
+			"downloadURL": "https://github.com/Atlas-Lumi/DIY_by_Santana/releases/download/v2.1/diyBySantana.zip",
+			"modURL": "https://github.com/Atlas-Lumi/DIY_by_Santana",
+			"description": "Adds craftable furniture.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(1).jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.12",
+				"mlversion": "0.6.0.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
 
 		{
 			"type": "mod",
