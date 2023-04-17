@@ -136,7 +136,7 @@
 			"updated": "2023-04-17",
 			"downloadURL": "https://github.com/Atlas-Lumi/ItemPiles/releases/download/v2.0/ItemPiles.modcomponent",
 			"modURL": "https://github.com/Atlas-Lumi/ItemPiles",
-			"description": "Adds craftable furniture.",
+			"description": "Adds blueprints for stacked items.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
