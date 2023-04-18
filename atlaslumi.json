@@ -149,7 +149,6 @@
 			],
 			"dependencies": [
 				"ModComponent",
-                		"ModSettings",
                 		"GearSpawner",
                 		"LocalizationUtilities",
                 		"CraftingRevisions"
