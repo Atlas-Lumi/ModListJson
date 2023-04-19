@@ -229,7 +229,7 @@
 				"Gear Items"
 			],
 			"gameversion": [
-				"vanilla"
+				"tftft"
 			],
 			"images": [
 				"https://user-images.githubusercontent.com/102776369/162088567-3a22ec1d-741d-450a-af83-cb9377bd7980.png"
@@ -256,14 +256,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0",
+			"version": "1.1",
 			"name": "TLD-Morphine",
 			"displayName": "",
-			"author": "",
+			"author": "Atlas Lumi, Thekillergreece",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-04-07",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD_Morphine/releases/download/v1.0/TLD_Morphine.modcomponent",
+			"updated": "2023-04-19",
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Morphine/releases/download/Latest/Morphine.modcomponent",
 			"modURL": "https://github.com/Atlas-Lumi/TLD_Morphine",
 			"description": "Adds Morphine as a usable item",
 			"tags": "",
@@ -271,24 +271,26 @@
 				"Gear Items"
 			],
 			"gameversion": [
-				"vanilla"
+				"tftft"
 			],
 			"images": [
 				"https://user-images.githubusercontent.com/102776369/161359073-25bd7862-7567-4229-848c-7004e55fbeb4.jpg"
 			],
 			"dependencies": [
-				"ModComponent"
+				"ModComponent",
+				"CraftingRevisions",
+				"GearSpawner"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.0",
-				"mlversion": "0.5.4"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
@@ -298,14 +300,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0",
+			"version": "1.1",
 			"name": "TLD-Cigarettes",
 			"displayName": "",
-			"author": "",
+			"author": "Atlas Lumi, Thekillergreece",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-04-17",
-			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Cigarettes/releases/download/v1.0/Cigarettes.modcomponent",
+			"updated": "2023-04-19",
+			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Cigarettes/releases/download/Latest/Cigarettes.modcomponent",
 			"modURL": "https://github.com/Atlas-Lumi/TLD-Cigarettes",
 			"description": "Adds usable Cigarettes",
 			"tags": "",
@@ -317,18 +319,20 @@
 				"https://user-images.githubusercontent.com/102776369/163693492-e0c76482-5351-4bf7-99ea-a4da1e512963.png"
 			],
 			"dependencies": [
-				"ModComponent"
+				"ModComponent",
+				"GearSpawner",
+				"CraftingRevisions"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.0",
-				"mlversion": "0.5.4"
+				"tldversion": "2.12",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
