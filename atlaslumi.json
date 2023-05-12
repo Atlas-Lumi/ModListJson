@@ -256,13 +256,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1",
+			"version": "1.2",
 			"name": "TLD-Morphine",
 			"displayName": "",
 			"author": "Atlas Lumi, Thekillergreece",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-04-19",
+			"updated": "2023-05-12",
 			"downloadURL": "https://github.com/Atlas-Lumi/TLD-Morphine/releases/download/Latest/Morphine.modcomponent",
 			"modURL": "https://github.com/Atlas-Lumi/TLD_Morphine",
 			"description": "Adds Morphine as a usable item",
@@ -279,7 +279,8 @@
 			"dependencies": [
 				"ModComponent",
 				"CraftingRevisions",
-				"GearSpawner"
+				"GearSpawner",
+				"AlcoholMod"
 			],
 			"status": {
 				"working": true,
