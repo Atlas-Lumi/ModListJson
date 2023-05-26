@@ -106,7 +106,12 @@
 			"images": [
 				"https://github.com/stmSantana/DIY_by_Santana/raw/main/Images/DIY%20(1).jpg"
 			],
-			"dependencies": [],
+			"dependencies": [
+				"ModComponent",
+                		"GearSpawner",
+                		"LocalizationUtilities",
+                		"CraftingRevisions"
+			],
 			"status": {
 				"working": true,
 				"beta": false,
