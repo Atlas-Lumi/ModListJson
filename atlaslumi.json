@@ -86,14 +86,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2",
+			"version": "2.3",
 			"name": "DIY by Santana",
 			"displayName": "",
-			"author": "",
+			"author": "Atlas Lumi, Yasenfire",
 			"previousAuthors": "stmSantana",
 			"released": "",
-			"updated": "2023-04-16",
-			"downloadURL": "https://github.com/Atlas-Lumi/DIY_by_Santana/releases/download/v2.2/DiyBySantana.zip",
+			"updated": "2023-11-14",
+			"downloadURL": "https://github.com/Atlas-Lumi/DIY_by_Santana/releases",
 			"modURL": "https://github.com/Atlas-Lumi/DIY_by_Santana",
 			"description": "Adds craftable furniture.",
 			"tags": "",
@@ -115,7 +115,7 @@
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "",
+				"patchnotes": "Added an alternative version that lets you craft with reclaimed wood.",
 				"notes": "",
 				"issues": ""
 			},
