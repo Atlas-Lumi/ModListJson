@@ -120,7 +120,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
+				"tldversion": "2.24",
 				"mlversion": "0.6.0.1"
 			},
 			"updater": {
