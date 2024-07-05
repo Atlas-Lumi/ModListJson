@@ -33,7 +33,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "Leaving to the main menu and loading a save again breaks the animations. Working on a fix."
 			},
 			"testedon": {
 				"tldversion": "2.31",
