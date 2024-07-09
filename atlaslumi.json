@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "0.5.0",
+			"version": "0.6.0",
 			"name": "Photo of a Loved One",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "2024-07-05",
-			"updated": "2024-07-05",
-			"downloadURL": "https://github.com/Atlas-Lumi/Photo-of-a-Loved-One/releases/download/v0.5.0/PhotoOfALovedOne.zip",
+			"updated": "2024-07-09",
+			"downloadURL": "https://github.com/Atlas-Lumi/Photo-of-a-Loved-One/releases/download/v0.6.0/PhotoOfALovedOne.zip",
 			"modURL": "https://github.com/Atlas-Lumi/Photo-of-a-Loved-One",
 			"description": "Allows you to carry a customizable picture of something you care about.",
 			"tags": "",
@@ -33,7 +33,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": "Leaving to the main menu and loading a save again breaks the animations. Working on a fix."
+				"issues": ""
 			},
 			"testedon": {
 				"tldversion": "2.31",
